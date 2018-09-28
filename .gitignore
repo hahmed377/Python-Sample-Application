@@ -1,5 +1,6 @@
 *.pyc
 cookbooks
+Berksfile.lock
 *.egg-info
 .coverage
 env/

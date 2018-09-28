@@ -32,7 +32,7 @@
     {
       "type": "file",
       "source": "./",
-      "destination": "/home/ubuntu/uber"
+      "destination": "/home/ubuntu"
     }
   ]
 }
